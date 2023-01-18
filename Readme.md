@@ -10,3 +10,5 @@
 10.-Ahora estamos añadiendo los archivos a una lista con el comando git commit -m "Ponemos una descripcion".
 11.-Con el comando git remote add origin Y nuestra url subimos los archivos a Git.
 12.-Con el ultimo comando git push origin main subimos nuestros archivos.
+13.Con el comando git diff HEAD~2..HEAD podemos ver las diferencias entre dos versiones.
+14.Con el commando git show podemos ver los ultimos cambios del repositorio.
